@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    flex: auto;
+}
+
+article {
+    flex: 2;
+    overflow-y: auto;
+}
+
+aside {
+    flex: 1;
+    overflow-y: auto;
+}
+footer {
+    background-color: blueviolet;
+    padding: 10px;
+}
+
+footer p {
+    color: aliceblue;
+}
+footer a {
+    color: aliceblue;
+}
