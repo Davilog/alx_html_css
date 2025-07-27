@@ -29,3 +29,12 @@ footer p {
 footer a {
     color: aliceblue;
 }
+
+header {
+    background-color: blueviolet;
+    padding: 10px;
+}
+
+header a {
+    color: aliceblue;
+}
